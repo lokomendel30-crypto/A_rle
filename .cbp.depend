@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1794576028 source:c:\users\homepc\documents\j1\.cbp\j2\a_rle\main.c
+	"rle.h"
+
+1794383489 source:c:\users\homepc\documents\j1\.cbp\j2\a_rle\ft_is_digit.c
+	"rle.h"
+
+1794396190 source:c:\users\homepc\documents\j1\.cbp\j2\a_rle\ft_rle_compress.c
+	"rle.h"
+
+1794385264 source:c:\users\homepc\documents\j1\.cbp\j2\a_rle\ft_rle_decompress.c
+	"rle.h"
+
+1794394621 source:c:\users\homepc\documents\j1\.cbp\j2\a_rle\ft_strlen.c
+	"rle.h"
+
+1794396188 c:\users\homepc\documents\j1\.cbp\j2\a_rle\rle.h
+	<unistd.h>
+	<stddef.h>
+
